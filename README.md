@@ -1,1 +1,3 @@
-https://supercodeemreguenduez.github.io/Projekt_Einkommensteuer-Rechner/
+JS-Projekt Einkommenssteuer-Rechner: 🧮
+
+https://werthmannsupercode.github.io/Projekt_Einkommensteuer-Rechner/
