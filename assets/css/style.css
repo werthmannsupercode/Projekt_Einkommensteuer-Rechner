@@ -1,0 +1,13 @@
+
+  
+  main {
+  margin: 20vh auto;
+  width: 40vw;
+  }
+
+
+  @media screen and (max-width: 576px) {
+    main {margin: 10vh auto;
+      width: 90%;
+  }
+}
